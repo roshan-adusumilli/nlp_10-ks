@@ -1,3 +1,4 @@
 # nlp_10-ks
-This is the code for project 5 from Udacity's AI for Trading nanodegree program.
-Source repo - https://github.com/udacity/artificial-intelligence-for-trading
+Code for Project 5 from Udacity's AI for Trading nanodegree program. 
+
+Original source code from https://github.com/udacity/artificial-intelligence-for-trading
